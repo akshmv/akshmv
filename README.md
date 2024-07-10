@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akshmv
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning python
+- 😄 If more people are interested we could do a 100 days python coding exercise
