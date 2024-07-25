@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @akshmv
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 😄 I also work with PySpark coding, I love to work with Big Data Technologies
